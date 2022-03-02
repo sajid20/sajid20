@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sajid20
+- 👋 Hi, I’m sajid 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on ...
